@@ -1,7 +1,7 @@
 [project]
 name = "psprelay"
 version = "0.1.0"
-description = "Add your description here"
+description = "Library with specials functions for protection relays"
 readme = "README.md"
 authors = [
     { name = "Asmus Graumann Moser", email = "asgrm@protonmail.com" }
